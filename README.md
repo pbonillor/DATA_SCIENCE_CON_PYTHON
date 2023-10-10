@@ -67,3 +67,9 @@ También necesitarás otras 60 horas como mínimo de trabajo en casa obligatorio
 # MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
 
+# Horario: 
+ Turno de fin de semana del 13 de octubre al 18 de noviembre de 2023
+ viernes de 16.30h a 21.30h y sábados de 09h a 14h
+
+# Modalidad: 
+ presencial en aula virtual (En directo por Google Meet).

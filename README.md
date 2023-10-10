@@ -4,7 +4,7 @@ Los profesionales del mundo moderno toman decisiones basados en datos y análisi
 
 En este sentido, nuestro máster ofrece a los estudiantes la fundamentación en conocimientos de modelaje y tecnología para soportar la toma de decisiones fundamentada en datos (“data-driven”).
 
-¿Cuales son los objetivos del curso?
+# ¿Cuales son los objetivos del curso?
 
 Al completar el curso, nuestros alumnos tendrán la capacidad de:
 * Explorar, analizar y visualizar diferentes conjuntos de datos.

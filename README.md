@@ -17,8 +17,8 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 
 # Horario: 
  Turno de fin de semana del 13 de octubre al 18 de noviembre de 2023
- * viernes de 16.30h a 21.30h y 
- * sábados de 09h a 14h
+ * Viernes de 16.30h a 21.30h y 
+ * Sábados de 09h a 14h
 
 # Modalidad: 
 * 60 horas, 6 semanas, 10 horas semanales, presencial en aula virtual (En directo por Google Meet, se le invitará a las reuniones correspondientes).

@@ -30,13 +30,13 @@ Para realizar este máster son necesarios conocimientos sólidos del lenguaje de
 * Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso (2 o 3 ejercicios por semana, durante 6 semanas)
 * Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
 
-## CONTENIDO
-# MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
+# CONTENIDO
+## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
   * Que es el Data Science.
   * Fases en un proyecto de Data Science.
   * Fundamentos generales de Python para la ciencia de datos.
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
-# MODULO II - PREPROCESAMIENTO DE DATOS
+## MODULO II - PREPROCESAMIENTO DE DATOS
   * Manejo de librerías y conjuntos de datos
     * Datos faltantes.
     * Datos categóricos.
@@ -45,12 +45,12 @@ Para realizar este máster son necesarios conocimientos sólidos del lenguaje de
     * Visualización.
     * Tratamiento.
     * Análisis de Correlaciones.
-# MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO
+## MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO
   * Análisis de Componentes Principales (PCA)
   * Clustering basado en distancia (K-medias)
   * Clusterización basado en densidad (DBSCAN)
   * Clustering jerárquico
-# MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO
+## MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO
   * Ficheros de Train y Test
   * Regresión y clasificación
   * Métricas de evaluación de los modelos
@@ -73,9 +73,9 @@ Para realizar este máster son necesarios conocimientos sólidos del lenguaje de
     * Entrenamiento
   * Selección de modelos y optimización de hiperparámetros.
   * Ensamblado de Modelos
-# MODULO V - INTRODUCCION AL TEXT MINING / NLP
+## MODULO V - INTRODUCCION AL TEXT MINING / NLP
   * Casos de Uso
   * Preprocesamiento: de texto a datos
   * Transformación: TF, TF-IDF, Bag of Words, word2vec
-# MODULO VI – PROYECTO FIN DE MÁSTER
+## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster

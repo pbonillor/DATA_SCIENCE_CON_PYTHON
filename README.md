@@ -1,4 +1,4 @@
-# MASTER DE DATA SCIENCE CON PYTHON
+# DATA SCIENCE CON PYTHON
 
 Los profesionales del mundo moderno toman decisiones basados en datos y análisis. En la actualidad existen grandes posibilidades tecnológicas orientadas a capturar datos. No obstante, para que estas puedan ser utilizadas eficientemente, se requieren habilidades y herramientas especializadas que permitan convertir datos en conocimientos útiles para la toma de decisiones.
 

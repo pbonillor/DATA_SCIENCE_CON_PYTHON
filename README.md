@@ -13,7 +13,7 @@ Al completar el curso, nuestros alumnos tendrán la capacidad de:
 * Implementar proyectos que requieran el uso de ciencia de datos para la toma de decisiones y la extracción de conocimiento a partir de los datos.
 
 # Requisitos:
-Para realizar este máster son necesarios conocimientos sólidos del lenguaje de programación Python, así como probabilidad y estadística básica.
+Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de programación Python, así como probabilidad y estadística básica.
 
 # Horario: 
  Turno de fin de semana del 13 de octubre al 18 de noviembre de 2023

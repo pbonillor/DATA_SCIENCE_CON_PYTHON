@@ -12,12 +12,25 @@ Al completar el curso, nuestros alumnos tendrán la capacidad de:
 * Desarrollar algoritmos de Aprendizaje de Máquina (Machine Learning) supervisados y no supervisados para extraer información.
 * Implementar proyectos que requieran el uso de ciencia de datos para la toma de decisiones y la extracción de conocimiento a partir de los datos.
 
+# Requisitos:
 Para realizar este máster son necesarios conocimientos sólidos del lenguaje de programación Python, así como probabilidad y estadística básica.
 
-Nuestros grupos son reducidos, máximo 10-11 alumnos (en función del aula), con esto conseguimos la mejor atención posible y que esas horas lectivas sean de la máxima calidad y más que suficientes para cubrir un temario muy extenso y completo.
+# Horario: 
+ Turno de fin de semana del 13 de octubre al 18 de noviembre de 2023
+ * viernes de 16.30h a 21.30h y 
+ * sábados de 09h a 14h
 
-También necesitarás otras 60 horas como mínimo de trabajo en casa obligatorio para entregar los ejercicios, horas de estudio, proyectos, trabajos obligatorios y demás.
+# Modalidad: 
+* 60 horas, 6 semanas, 10 horas semanales, presencial en aula virtual (En directo por Google Meet, se le invitará a las reuniones correspondientes).
+* También necesitarás otras 60 horas como mínimo de trabajo en casa obligatorio para entregar los ejercicios, horas de estudio, proyectos, trabajos obligatorios y demás.
+* Nuestros grupos son reducidos, máximo 10-11 alumnos (en función del aula), con esto conseguimos la mejor atención posible y que esas horas lectivas sean de la máxima calidad y más que suficientes para cubrir un temario muy extenso y completo.
 
+# Requisitos de aprobación:
+* 75% de asistencia a las clases. Se registrará la asistencia a cada clase.
+* Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso (2 o 3 ejercicios por semana, durante 6 semanas)
+* Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
+
+## CONTENIDO
 # MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
   * Que es el Data Science.
   * Fases en un proyecto de Data Science.
@@ -66,10 +79,3 @@ También necesitarás otras 60 horas como mínimo de trabajo en casa obligatorio
   * Transformación: TF, TF-IDF, Bag of Words, word2vec
 # MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
-
-# Horario: 
- Turno de fin de semana del 13 de octubre al 18 de noviembre de 2023
- viernes de 16.30h a 21.30h y sábados de 09h a 14h
-
-# Modalidad: 
- presencial en aula virtual (En directo por Google Meet).

@@ -27,7 +27,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 
 # Requisitos de aprobación:
 * 75% de asistencia a las clases. Se registrará la asistencia a cada clase.
-* Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso (2 o 3 ejercicios por semana, durante 6 semanas)
+* Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso.
 * Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
 
 # CONTENIDO

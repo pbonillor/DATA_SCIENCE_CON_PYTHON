@@ -31,7 +31,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 * Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
 
 # CONTENIDO
-## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS](MODULO%20I%20-%20INTRODUCCIÓN%20Y%20REPASO%20GENERAL%20DE%20CONCEPTOS.pdf)
+## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS](MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS.pdf)
   * Que es el Data Science.
   * Fases en un proyecto de Data Science.
   * Herramienta de trabajo Google Colab (Google Colaboratory)

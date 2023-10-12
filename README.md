@@ -26,7 +26,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 * Nuestros grupos son reducidos, máximo 10-11 alumnos (en función del aula), con esto conseguimos la mejor atención posible y que esas horas lectivas sean de la máxima calidad y más que suficientes para cubrir un temario muy extenso y completo.
 
 # Requisitos de aprobación:
-* 75% de asistencia a las clases. Se registrará la asistencia a cada clase.
+* 75% (al menos 45 horas de 60) de asistencia a las clases en linea. Se registrará la asistencia a cada clase.
 * Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso.
 * Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
 

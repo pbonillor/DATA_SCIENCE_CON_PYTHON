@@ -34,6 +34,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
   * Que es el Data Science.
   * Fases en un proyecto de Data Science.
+  * Herramienta de trabajo Google Colab (Google Colaboratory)
   * Fundamentos generales de Python para la ciencia de datos.
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
 ## MODULO II - PREPROCESAMIENTO DE DATOS

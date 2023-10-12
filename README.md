@@ -8,7 +8,7 @@ En este sentido, nuestro máster ofrece a los estudiantes la fundamentación en 
 
 Al completar el curso, nuestros alumnos tendrán la capacidad de:
 * Explorar, analizar y visualizar diferentes conjuntos de datos.
-* Preprocesar grandes cantidades de datos para la    modelación con algoritmos y técnicas estadísticas.
+* Preprocesar grandes cantidades de datos para la modelación con algoritmos y técnicas estadísticas.
 * Desarrollar algoritmos de Aprendizaje de Máquina (Machine Learning) supervisados y no supervisados para extraer información.
 * Implementar proyectos que requieran el uso de ciencia de datos para la toma de decisiones y la extracción de conocimiento a partir de los datos.
 
@@ -17,8 +17,8 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 
 # Horario: 
  Turno de fin de semana del 13 de octubre al 18 de noviembre de 2023
- * Viernes de 16.30h a 21.30h, repartido de 16:30 a 18:45, #descanso de 30 minutos# de 18:45 a 19:15, de 19:15 a 21:30
- * Sábados de 09h a 14h, repartido de 09:00 a 11:15, #descanso de 30 minutos# de 11:15 a 11:45, de 11:45 a 14:00
+ * Viernes de 16.30h a 21.30h, repartido de 16:30 a 18:45, **descanso de 30 minutos de 18:45 a 19:15**, de 19:15 a 21:30
+ * Sábados de 09h a 14h, repartido de 09:00 a 11:15, **descanso de 30 minutos de 11:15 a 11:45**, de 11:45 a 14:00
 
 # Modalidad: 
 * 60 horas, 6 semanas, 10 horas semanales, presencial en aula virtual (En directo por Google Meet, se le invitará a las reuniones correspondientes).

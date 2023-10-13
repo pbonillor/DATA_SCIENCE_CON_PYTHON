@@ -36,7 +36,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * Fases en un proyecto de Data Science.
   * Herramienta de trabajo Google Colab (Google Colaboratory)
   * Fundamentos generales de Python para la ciencia de datos.
-    ** [Introducción a Python](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/python.ipynb)  
+    * [Introducción a Python](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/python.ipynb)  
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
 ## MODULO II - PREPROCESAMIENTO DE DATOS
   * Manejo de librerías y conjuntos de datos

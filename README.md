@@ -83,7 +83,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
 
-## Bibliografia Recomendada:
+## Bibliografia
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) de Jake VanderPlas | Libro de introducción a la ciencia de datos con Python. Cubre una introducción a los cuadernos de Jupyter y el uso de librerías como NumPy, Pandas, Matplotlib y Scikit-learn. | 
 * [Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data, and The Cloud](https://www.amazon.com/-/es/Paul-Deitel/dp/0135404673/) de Paul Deitel y Harvey Deitel | Introducción a la programación en Python para ciencia de datos. Este es un gran punto de partida si nunca has programado en este lenguaje. |
 * [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html) de Thomas J. Sargent y John Stachurski | Texto de introducción a la programación con Python, con ejemplos orientados a economía y finanzas. |
@@ -92,7 +92,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 * [Zero to Mastery TensorFlow for Deep Learning book](https://dev.mrdbourke.com/tensorflow-deep-learning/) de Daniel Bourke | Enseña los fundamentales de Tensorflow de la mano de ejercicios prácticos, con el objetivo de pasar el examen de certificación de Tensorflow Developer. |
 * [Learn PyTorch for Deep Learning: Zero to Mastery book](https://dev.mrdbourke.com/tensorflow-deep-learning/) de Daniel Bourke | Enseña los fundamentales de PyTorch de la mano de ejercicios prácticos. | Gratis |
 * [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) de Huggingface | Explora algunos flujos de trabajo de Procesamiento de Lenguaje Natural de la mano del ecosistema de librerías de Huggingface, incluyendo 🤗Transformers, 🤗Datasets, 🤗Tokenizers, y 🤗Accelerate |
-* [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io) de Stanford | Matierales de la clase de Stanford en las que se aborda la teoría de las redes neuronales y aplicaciones en código para tareas de visión artificial. |
+* [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io) de Stanford | Materiales de la clase de Stanford en las que se aborda la teoría de las redes neuronales y aplicaciones en código para tareas de visión artificial. |
 * [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) de Huggingface | Explica conceptos basicos del aprendizaje reforzado, para implementar aprendizaje reforzado profundo en librerías como Pytorch, Optuna y Unity ML-Agents. |
 * [Quantitaive Economics with Python](https://python.quantecon.org/intro.html) de Thomas J. Sargent y John Stachurski | Libro con materiales enfocados en la modelación económica, que cubre temas como la programación lineal y dinámica, además de modelos de crecimiento, búsqueda de empleo y valoración de activos. |
 	

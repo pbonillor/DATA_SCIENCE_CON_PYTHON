@@ -37,8 +37,8 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * Herramienta de trabajo Google Colab (Google Colaboratory)
   * Fundamentos generales de Python para la ciencia de datos.
     * [Introducción a Python](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
-
     * [Numpy](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
+    * [Pandas](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/pandas.ipynb)
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
 ## MODULO II - PREPROCESAMIENTO DE DATOS
   * Manejo de librerías y conjuntos de datos

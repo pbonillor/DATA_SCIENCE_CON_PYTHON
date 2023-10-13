@@ -39,7 +39,10 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * [Introducción a Python](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
     * [Numpy](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
     * [Pandas](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/pandas.ipynb)
+
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
+    * 
+  * Ejercicio 1: En base al data set [titanic](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente formulario: https://docs.google.com/forms/d/1Gk8pYbIXNhzRXW7nnE7C_hG8FoHVC-qA-F8lCp72FPk/edit
 ## MODULO II - PREPROCESAMIENTO DE DATOS
   * Manejo de librerías y conjuntos de datos
     * Datos faltantes.

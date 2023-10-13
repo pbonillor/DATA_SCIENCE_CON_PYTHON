@@ -31,13 +31,13 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 * Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
 
 # CONTENIDO
-## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO%20I%20-%20INTRODUCCI%C3%93N%20Y%20REPASO%20GENERAL%20DE%20CONCEPTOS.pdf)
+## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/MODULO%20I%20-%20INTRODUCCI%C3%93N%20Y%20REPASO%20GENERAL%20DE%20CONCEPTOS.pdf)
   * Que es el Data Science.
   * Fases en un proyecto de Data Science.
   * Herramienta de trabajo Google Colab (Google Colaboratory)
   * Fundamentos generales de Python para la ciencia de datos.
-    * [Introducción a Python](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/python.ipynb)
-    * [Numpy](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/numpy.ipynb)
+    * [Introducción a Python](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
+    * [Numpy](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
 ## MODULO II - PREPROCESAMIENTO DE DATOS
   * Manejo de librerías y conjuntos de datos

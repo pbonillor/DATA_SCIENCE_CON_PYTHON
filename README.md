@@ -42,7 +42,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
     * 
-  * Ejercicio 1: En base al data set [titanic](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente formulario: https://docs.google.com/forms/d/1Gk8pYbIXNhzRXW7nnE7C_hG8FoHVC-qA-F8lCp72FPk/edit
+  * Ejercicio 1: En base al data set [titanic](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente formulario: https://docs.google.com/forms/d/1Gk8pYbIXNhzRXW7nnE7C_hG8FoHVC-qA-F8lCp72FPk/edit
 ## MODULO II - PREPROCESAMIENTO DE DATOS
   * Manejo de librerías y conjuntos de datos
     * Datos faltantes.

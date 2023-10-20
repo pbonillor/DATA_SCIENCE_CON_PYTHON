@@ -48,16 +48,21 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 *  [Video Modulo I 3/4](https://drive.google.com/file/d/13p-BJ7yUQZ9sSC0MbNb6E2L2aywYwB7c/view?usp=sharing)
 *  [Video Modulo I 4/4](https://drive.google.com/file/d/1j5eBsTe0yaNCueQd_5qXbzVdXhmgMv5c/view?usp=sharing)
 
-
 ## [MODULO II - PREPROCESAMIENTO DE DATOS](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/MODULO%20II%20-%20PREPROCESAMIENTO%20DE%20DATOS.pdf)
-  * [Manejo de librerías y conjuntos de datos](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/MODULO%20II%20-%20PREPROCESAMIENTO%20DE%20DATOS.pdf)
+  * [Manejo de librerías y conjuntos de datos](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Manejo_de_librer%C3%ADas_y_conjuntos_de_datos.ipynb)
     * Datos faltantes.
     * Datos categóricos.
     * Escalas.
   * Análisis de datos exploratorios
-    * Visualización.
-    * Tratamiento.
-    * Análisis de Correlaciones.
+    * [Pandas y Matplotib]()
+    * [Seaborn]()
+    * [Altair y Plotly]()
+    * [Pandas Profile y SweetViz]()
+    * [DimRed (PCA, tSNE, UMAP)]()
+    * [Clustering (kMeans)]()
+    * [Ejercicio]()
+  
+
 ## MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO
   * Análisis de Componentes Principales (PCA)
   * Clustering basado en distancia (K-medias)

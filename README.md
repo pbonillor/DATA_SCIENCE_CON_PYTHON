@@ -56,7 +56,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * Análisis de datos exploratorios
     * [Pandas y Matplotib](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/EDA_sencillo_con_Pandas_(churn_ds).ipynb)
     * [Seaborn](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/EDA_avanzado_con_Seaborn_(adult_ds).ipynb)
-    * [Altair y Plotly](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/EDA_avanzado_con_Seaborn_(adult_ds).ipynb)
+    * [Altair y Plotly](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Plotly_videogame_dataset.ipynb)
     * [Pandas Profile y SweetViz]()
     * [DimRed (PCA, tSNE, UMAP)]()
     * [Clustering (kMeans)]()

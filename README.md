@@ -54,7 +54,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * Datos categóricos.
     * Escalas.
   * Análisis de datos exploratorios
-    * [Pandas y Matplotib]()
+    * [Pandas y Matplotib](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/EDA_sencillo_con_Pandas_(churn_ds).ipynb)
     * [Seaborn]()
     * [Altair y Plotly]()
     * [Pandas Profile y SweetViz]()

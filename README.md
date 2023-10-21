@@ -58,7 +58,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * [Seaborn](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/EDA_avanzado_con_Seaborn_(adult_ds).ipynb)
     * [Altair y Plotly](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Plotly_videogame_dataset.ipynb)
     * [DimRed](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Dim_Red_(Bubble%2C_Digits%2C_Houses).ipynb)
-    * [Ejercicio]()
+    * Ejercicio 2: En base al dataset [Social Network Ads](https://raw.githubusercontent.com/pbonillor/DATA_SCIENCE_CON_PYTHON/main/MODULO_II/Social_Network_Ads.csv). Complete el codigo de la siguiente [notebook](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/decision_tree_classification_part2.ipynb)
 
 ## MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO
   * Análisis de Componentes Principales (PCA)

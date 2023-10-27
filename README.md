@@ -70,32 +70,33 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [AnálisisClustering basado en distancia (K-medias)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/K_Means.ipynb)
   * [Clusterización basado en densidad (DBSCAN) y Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb)
 ## MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO
-  * Ficheros de Train y Test
-  * Regresión y clasificación
+  * [Introduccion Machine Learning]()
+  * [Ficheros de Train y Test]()
+  * [Regresión y clasificación]()
   * Métricas de evaluación de los modelos
-    * Validación cruzada
-    * Modelos de clasificación (Matriz de confusión, AUC, ROC, …)
-    * Modelos de regresión (MSE, RMSE, MAE, …)
+    * [Validación cruzada]()
+    * [Modelos de clasificación (Matriz de confusión, AUC, ROC, …)]()
+    * [Modelos de regresión (MSE, RMSE, MAE, …)]()
   * Modelos lineales generalizados (GLM):
-    * Distribuciones básicas
-    * Modelo lineal simple y múltiple
-    * Regresión Logística
-    * Regularización
-  * K-vecinos más cercanos (KNN)
-  * Máquinas de soporte vectorial (SVM)
+    * [Distribuciones básicas]()
+    * [Modelo lineal simple y múltiple]()
+    * [Regresión Logística]()
+    * [Regularización]()
+  * [K-vecinos más cercanos (KNN)]()
+  * [Máquinas de soporte vectorial (SVM)]()
   * Árboles de decisión:
-    * Tipos de árboles
-    * Bagging (Random Forest)
-    * Boosting (Gradient Boosting)
+    * [Tipos de árboles]()
+    * [Bagging (Random Forest)]()
+    * [Boosting (Gradient Boosting)]()
   * Introducción a las redes neuronales:
-    * Estructura
-    * Entrenamiento
+    * [Estructura]()
+    * [Entrenamiento]()
   * Selección de modelos y optimización de hiperparámetros.
-  * Ensamblado de Modelos
+  * [Ensamblado de Modelos]()
 ## MODULO V - INTRODUCCION AL TEXT MINING / NLP
-  * Casos de Uso
-  * Preprocesamiento: de texto a datos
-  * Transformación: TF, TF-IDF, Bag of Words, word2vec
+  * [Casos de Uso]()
+  * [Preprocesamiento: de texto a datos]()
+  * [Transformación: TF, TF-IDF, Bag of Words, word2vec]()
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
 

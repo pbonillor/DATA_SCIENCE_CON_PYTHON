@@ -60,11 +60,15 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * [DimRed](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Dim_Red_(Bubble%2C_Digits%2C_Houses).ipynb)
     * Ejercicio 2: En base al dataset [Social Network Ads](https://raw.githubusercontent.com/pbonillor/DATA_SCIENCE_CON_PYTHON/main/MODULO_II/Social_Network_Ads.csv). Complete el codigo de la siguiente [notebook](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/decision_tree_classification_part2.ipynb)
 
-## MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO
-  * Análisis de Componentes Principales (PCA)
-  * Clustering basado en distancia (K-medias)
-  * Clusterización basado en densidad (DBSCAN)
-  * Clustering jerárquico
+* [Video Modulo II 1/4](https://drive.google.com/file/d/11IcQZeHaAKDoulswEcPDvJ02Iri6aFuC/view?usp=sharing)
+* [Video Modulo II 2/4](https://drive.google.com/file/d/1b1nALmE5qrYZ5rpZMQKZ8T4vZ-6MdntJ/view?usp=sharing)
+*  [Video Modulo II 3/4](https://drive.google.com/file/d/1ytPX6kHifhNuLbaG-3WrDz7mzlEm9650/view?usp=sharing)
+*  [Video Modulo II 4/4](https://drive.google.com/file/d/1yqtIhlHLziTxEaWG_VLX845DVIR2b4w_/view?usp=sharing)
+  
+## [MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/MODULO%20III%20-%20MODELOS%20DE%20APRENDIZAJE%20NO%20SUPERVISADO.pdf)
+  * [Análisis de Componentes Principales (PCA)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/PCA.ipynb)
+  * [AnálisisClustering basado en distancia (K-medias)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/K_Means.ipynb)
+  * [Clusterización basado en densidad (DBSCAN) y Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb)
 ## MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO
   * Ficheros de Train y Test
   * Regresión y clasificación

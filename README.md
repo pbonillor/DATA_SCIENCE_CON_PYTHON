@@ -69,8 +69,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [Análisis de Componentes Principales (PCA)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/PCA.ipynb)
   * [AnálisisClustering basado en distancia (K-medias)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/K_Means.ipynb)
   * [Clusterización basado en densidad (DBSCAN) y Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb)
-## MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO
-  * [Introduccion Machine Learning]()
+## [MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/MODULO%20IV%20-%20MODELOS%20DE%20APRENDIZAJE%20SUPERVISADO.pdf)
   * [Ficheros de Train y Test]()
   * [Regresión y clasificación]()
   * Métricas de evaluación de los modelos

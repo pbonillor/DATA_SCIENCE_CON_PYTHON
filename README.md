@@ -68,10 +68,9 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 ## [MODULO III - MODELOS DE APRENDIZAJE NO SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/MODULO%20III%20-%20MODELOS%20DE%20APRENDIZAJE%20NO%20SUPERVISADO.pdf)
   * [Análisis de Componentes Principales (PCA)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/PCA.ipynb)
   * [AnálisisClustering basado en distancia (K-medias)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/K_Means.ipynb)
-  * [Clusterización basado en densidad (DBSCAN) y Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb)
+  * [Clusterización basado en densidad (DBSCAN)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb) y [Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/CLustering.ipynb)
 ## [MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/MODULO%20IV%20-%20MODELOS%20DE%20APRENDIZAJE%20SUPERVISADO.pdf)
-  * [Ficheros de Train y Test]()
-  * [Regresión y clasificación]()
+  * [Regresión Lineal Simple]() y [clasificación]()
   * Métricas de evaluación de los modelos
     * [Validación cruzada]()
     * [Modelos de clasificación (Matriz de confusión, AUC, ROC, …)]()

@@ -73,10 +73,10 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 ## [MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/MODULO%20IV%20-%20MODELOS%20DE%20APRENDIZAJE%20SUPERVISADO.pdf)
   * [Clasificación](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/Clasificaci%C3%B3n.ipynb)
   * [Regresión Lineal Simple](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/Regresion.ipynb) 
-  * Métricas de evaluación de los modelos
-    * [Validación cruzada]()
-    * [Modelos de clasificación (Matriz de confusión, AUC, ROC, …)]()
-    * [Modelos de regresión (MSE, RMSE, MAE, …)]()
+  * [Métricas de evaluación de los modelos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/metricas.ipynb)
+    * Validación cruzada
+    * Modelos de clasificación (Matriz de confusión, AUC, ROC, …)
+    * Modelos de regresión (MSE, RMSE, MAE, …)
   * Modelos lineales generalizados (GLM):
     * [Distribuciones básicas]()
     * [Modelo lineal simple y múltiple]()

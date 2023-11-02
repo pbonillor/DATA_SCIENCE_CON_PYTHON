@@ -70,6 +70,12 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [AnálisisClustering basado en distancia (K-medias)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/K_Means.ipynb)
   * [Clusterización basado en densidad (DBSCAN)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb) y [Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/Clustering.ipynb)
   * [Ejercicio 3](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/Ejercicio3.ipynb) 
+
+* [Video Modulo III 1/4](https://drive.google.com/file/d/17hc0IwiJOw63OTP_yp2NMsoi5DY9lkjn/view?usp=sharing)
+* [Video Modulo III 2/4](https://drive.google.com/file/d/1XBd3B5zKeKChi_l8KXunwkU4nE-h9bUm/view?usp=sharing)
+*  [Video Modulo III 3/4](https://drive.google.com/file/d/1fhOWMStFBkJt25_LdalBPKlNLxRXl0Nu/view?usp=sharing)
+*  [Video Modulo III 4/4](https://drive.google.com/file/d/1yQT3N4QmsLqs6ZoutL5Jzs7f7YGZ8CrA/view?usp=sharing)
+
 ## [MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/MODULO%20IV%20-%20MODELOS%20DE%20APRENDIZAJE%20SUPERVISADO.pdf)
   * [Clasificación](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/Clasificaci%C3%B3n.ipynb)
   * [Regresión Lineal Simple](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/Regresion.ipynb) 

@@ -84,16 +84,12 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * Modelos de clasificación (Matriz de confusión, AUC, ROC, …)
     * Modelos de regresión (MSE, RMSE, MAE, …)
   * Modelos lineales generalizados (GLM):
-    * [Distribuciones básicas]()
-    * [Modelo lineal simple y múltiple]()
     * [Regresión Logística](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regresionlogistica.ipynb)
     * [Regularización](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regularizacion.ipynb)
   * [K-vecinos más cercanos (KNN)]()
-  * [Máquinas de soporte vectorial (SVM)]()
   * Árboles de decisión:
-    * [Tipos de árboles]()
-    * [Bagging (Random Forest)]()
-    * [Boosting (Gradient Boosting)]()
+    * [Bagging (Random Forest)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/ramdomforest.ipynb)
+    * [Boosting (Gradient Boosting)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/gradientboosting.ipynb)
   * Introducción a las redes neuronales:
     * [Estructura]()
     * [Entrenamiento]()

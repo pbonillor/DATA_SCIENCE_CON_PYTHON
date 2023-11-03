@@ -49,7 +49,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 *  [Video Modulo I 4/4](https://drive.google.com/file/d/1j5eBsTe0yaNCueQd_5qXbzVdXhmgMv5c/view?usp=sharing)
 
 ## [MODULO II - PREPROCESAMIENTO DE DATOS](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/MODULO%20II%20-%20PREPROCESAMIENTO%20DE%20DATOS.pdf)
-  * [Manejo de librerías y conjuntos de datos](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Manejo_de_librer%C3%ADas_y_conjuntos_de_datos.ipynb)
+  * [Manejo de librerías y conjuntos de datos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Manejo_de_librer%C3%ADas_y_conjuntos_de_datos.ipynb)
     * Datos faltantes.
     * Datos categóricos.
     * Escalas.

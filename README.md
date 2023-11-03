@@ -86,7 +86,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * Modelos lineales generalizados (GLM):
     * [Distribuciones básicas]()
     * [Modelo lineal simple y múltiple]()
-    * [Regresión Logística]()
+    * [Regresión Logística](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regresonlogistica.ipynb)
     * [Regularización](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regularizacion.ipynb)
   * [K-vecinos más cercanos (KNN)]()
   * [Máquinas de soporte vectorial (SVM)]()

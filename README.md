@@ -86,7 +86,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * Modelos lineales generalizados (GLM):
     * [Regresión Logística](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regresionlogistica.ipynb)
     * [Regularización](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regularizacion.ipynb)
-  * [K-vecinos más cercanos (KNN)]()
+  * [K-vecinos más cercanos (KNN)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/knnvecino.ipynb)
   * Árboles de decisión:
     * [Bagging (Random Forest)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/ramdomforest.ipynb)
     * [Boosting (Gradient Boosting)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/gradientboosting.ipynb)

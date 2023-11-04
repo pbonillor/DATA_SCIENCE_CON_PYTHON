@@ -91,7 +91,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * [Bagging (Random Forest)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/ramdomforest.ipynb)
     * [Boosting (Gradient Boosting)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/gradientboosting.ipynb)
   * Introducción a las redes neuronales:
-    * [Estructura](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/redesneuronalesartificiales.ipynb)
+    * [Estructura](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/redesneurolaresartificiales.ipynb)
     * [Entrenamiento](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/entrenamientoredneuronalartificial.ipynb)
   * Selección de modelos y optimización de hiperparámetros.
   ** [Ensamblado de Modelos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/ensemble.ipynb)

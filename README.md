@@ -103,11 +103,11 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 * [Video Modulo IV 4/4](https://drive.google.com/file/d/1XtwOlAGYxRZkP8ljrU-dLor1wtSeJX59/view?usp=sharing)
 
 ## MODULO V - INTRODUCCION AL TEXT MINING / NLP
-  * [Introducción NLP]()
-  * [Introducción NLKT]()
-  * [Conceptos NLKT]()
-  * [Conceptos spaCy]()
-  * [Prepocesamiento de Texto]()
+  * [Introducción NLP](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/IntroduccionNLP.ipynb)
+  * [Introducción NLKT](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/IntroduccionNLTK.ipynb)
+  * [Conceptos NLKT](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/ConceptosNLTK.ipynb)
+  * [Conceptos spaCy](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/ConceptosSpaCy.ipynb)
+  * [Prepocesamiento de Texto - Normalización](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/PreprocesamientoNormalizacion.ipynb)
   * [Bag of Words]()
   * [NLTK scikit Clasificación]()
   * [TensorFlow]()

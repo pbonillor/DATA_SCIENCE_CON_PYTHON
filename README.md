@@ -73,8 +73,8 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 
 * [Video Modulo III 1/4](https://drive.google.com/file/d/17hc0IwiJOw63OTP_yp2NMsoi5DY9lkjn/view?usp=sharing)
 * [Video Modulo III 2/4](https://drive.google.com/file/d/1XBd3B5zKeKChi_l8KXunwkU4nE-h9bUm/view?usp=sharing)
-*  [Video Modulo III 3/4](https://drive.google.com/file/d/1fhOWMStFBkJt25_LdalBPKlNLxRXl0Nu/view?usp=sharing)
-*  [Video Modulo III 4/4](https://drive.google.com/file/d/1yQT3N4QmsLqs6ZoutL5Jzs7f7YGZ8CrA/view?usp=sharing)
+* [Video Modulo III 3/4](https://drive.google.com/file/d/1fhOWMStFBkJt25_LdalBPKlNLxRXl0Nu/view?usp=sharing)
+* [Video Modulo III 4/4](https://drive.google.com/file/d/1yQT3N4QmsLqs6ZoutL5Jzs7f7YGZ8CrA/view?usp=sharing)
 
 ## [MODULO IV - MODELOS DE APRENDIZAJE SUPERVISADO](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/MODULO%20IV%20-%20MODELOS%20DE%20APRENDIZAJE%20SUPERVISADO.pdf)
   * [Clasificación](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/Clasificaci%C3%B3n.ipynb)
@@ -85,6 +85,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * Modelos de regresión (MSE, RMSE, MAE, …)
   * Modelos lineales generalizados (GLM):
     * [Regresión Logística](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regresionlogistica.ipynb)
+    * [Prophet]()
     * [Regularización](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regularizacion.ipynb)
   * [K-vecinos más cercanos (KNN)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/knnvecino.ipynb)
   * Árboles de decisión:
@@ -94,11 +95,26 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * [Estructura](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/redesneurolaresartificiales.ipynb)
     * [Entrenamiento](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/entrenamientoredneuronalartificial.ipynb)
   * Selección de modelos y optimización de hiperparámetros.
-  ** [Ensamblado de Modelos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/ensemble.ipynb)
+    * [Ensamblado de Modelos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/ensemble.ipynb)
+
+* [Video Modulo IV 1/4](https://drive.google.com/file/d/1zVGrf2O3-xatkSoq13Ij3uJZymOuL7TQ/view?usp=sharing)
+* [Video Modulo IV 2/4](https://drive.google.com/file/d/1bleBZVXdBmanlAop-VdybRxtH7ykm93V/view?usp=sharing)
+* [Video Modulo IV 3/4](https://drive.google.com/file/d/1TVToG2jILGFRA4r0yL1fzwX3I1t2E35j/view?usp=sharing)
+* [Video Modulo IV 4/4](https://drive.google.com/file/d/1XtwOlAGYxRZkP8ljrU-dLor1wtSeJX59/view?usp=sharing)
+
 ## MODULO V - INTRODUCCION AL TEXT MINING / NLP
-  * [Casos de Uso]()
-  * [Preprocesamiento: de texto a datos]()
-  * [Transformación: TF, TF-IDF, Bag of Words, word2vec]()
+  * [Introducción NLP]()
+  * [Introducción NLKT]()
+  * [Conceptos NLKT]()
+  * [Conceptos spaCy]()
+  * [Prepocesamiento de Texto]()
+  * [Bag of Words]()
+  * [NLTK scikit Clasificación]()
+  * [TensorFlow]()
+  * [Introducción IA Generativa]()
+  * [LLMs]()
+  * [Ejercicio 4: Analisis de Sentimientos]()
+ 
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
 

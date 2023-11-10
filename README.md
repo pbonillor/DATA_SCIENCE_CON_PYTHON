@@ -111,9 +111,8 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [Bag of Words](https://colab.research.google.com/github//pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/BagofWords.ipynb)
   * [NLTK scikit Clasificación](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/NLTKScikitClasificacionTextos.ipynb)
   * [TensorFlow Keras MLP Clasificación de Textos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/TensorFlowKerasMLPClasificacionTextos.ipynb)
-  * [Deep Learning]()
-  * [Introducción IA Generativa]()
-  * [LLMs]()
+  * [Teoria Deep Learning](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/DeepLearning.pdf)
+  * [Deep Learning](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/Deeplearning.ipynb)
   * [Ejercicio 4: Analisis de Sentimientos]()
  
 ## MODULO VI – PROYECTO FIN DE MÁSTER

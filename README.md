@@ -113,7 +113,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [TensorFlow Keras MLP Clasificación de Textos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/TensorFlowKerasMLPClasificacionTextos.ipynb)
   * [Teoria Deep Learning](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/DeepLearning.pdf)
   * [Deep Learning](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/Deeplearning.ipynb)
-  * [Ejercicio 4: Analisis de Sentimientos]()
+  * [Ejercicio 4: Analisis de Sentimientos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/Ejercicio4_Analisis_Sentimientos_Tweets_Espa%C3%B1ol.ipynb)
  
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster

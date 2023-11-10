@@ -42,7 +42,9 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
     * [Probabilidades y Estadísticas](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/probabilidad_estadistica.ipynb)
+  
   * Ejercicio 1: En base al data set [titanic](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform)
+  
   * [Solución Ejercicio 1](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_I/solucion_ejercicio_titanic.ipynb) 
 
 * [Video Modulo I 1/4](https://drive.google.com/file/d/1pFD7xyWvZoDwEgoJbNwyGLEP4mSvWh3U/view?usp=sharing)
@@ -61,6 +63,8 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * [Altair y Plotly](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/Plotly_videogame_dataset.ipynb)
   
     * Ejercicio 2: En base al dataset [Social Network Ads](https://raw.githubusercontent.com/pbonillor/DATA_SCIENCE_CON_PYTHON/main/MODULO_II/Social_Network_Ads.csv). Complete el codigo de la siguiente [notebook](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/decision_tree_classification_part2.ipynb)
+
+    * [Solución Ejercicio 2](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/decision_tree_classification_solution.ipynb) 
 
 * [Video Modulo II 1/4](https://drive.google.com/file/d/11IcQZeHaAKDoulswEcPDvJ02Iri6aFuC/view?usp=sharing)
 * [Video Modulo II 2/4](https://drive.google.com/file/d/1b1nALmE5qrYZ5rpZMQKZ8T4vZ-6MdntJ/view?usp=sharing)

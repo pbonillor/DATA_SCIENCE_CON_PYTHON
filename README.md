@@ -124,6 +124,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
     * [Ejemplo Proyecto](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_VI/proyecto.ipynb)
+    * [Proyecto Final](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_VI/proyecto_final.ipynb)
 
 ## Bibliografia
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) de Jake VanderPlas | Libro de introducción a la ciencia de datos con Python. Cubre una introducción a los cuadernos de Jupyter y el uso de librerías como NumPy, Pandas, Matplotlib y Scikit-learn. 

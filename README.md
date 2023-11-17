@@ -120,6 +120,11 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [Teoria Deep Learning](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/DeepLearning.pdf)
   * [Deep Learning](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/Deeplearning.ipynb)
   * [Ejercicio 4: Analisis de Sentimientos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_V/Ejercicio4_Analisis_Sentimientos_Tweets_Espa%C3%B1ol.ipynb)
+
+* [Video Modulo V 1/4](https://drive.google.com/file/d/1Gbnml0JFrpHkYuAfcs_8FkQ5W2T5kyJR/view?usp=sharing)
+* [Video Modulo V 2/4](https://drive.google.com/file/d/1h0pQJ0bf9Y7_v1sX3PAUVIzb6rcS-Ngp/view?usp=sharing)
+* [Video Modulo V 3/4](https://drive.google.com/file/d/1EGyrYHH3A7Iqtb0ZHMZD-2PrOgQeeySI/view?usp=sharing)
+* [Video Modulo V 4/4](https://drive.google.com/file/d/14NH7YzoOzyoPLGsW5kSB0ivj5nS_Lm7B/view?usp=sharing)
  
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster

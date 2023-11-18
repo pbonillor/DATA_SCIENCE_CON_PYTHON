@@ -75,7 +75,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   * [Análisis de Componentes Principales (PCA)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/PCA.ipynb)
   * [AnálisisClustering basado en distancia (K-medias)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/K_Means.ipynb)
   * [Clusterización basado en densidad (DBSCAN)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/clustering_jerarquico_y_basado_densidades.ipynb) y [Clustering jerárquico](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/Clustering.ipynb)
-  * [Ejercicio 3](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/Ejercicio3.ipynb) 
+  * [Ejercicio 3: Compuestos quimicos de los Vinos](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_III/Ejercicio3.ipynb) 
 
 * [Video Modulo III 1/4](https://drive.google.com/file/d/17hc0IwiJOw63OTP_yp2NMsoi5DY9lkjn/view?usp=sharing)
 * [Video Modulo III 2/4](https://drive.google.com/file/d/1XBd3B5zKeKChi_l8KXunwkU4nE-h9bUm/view?usp=sharing)
@@ -91,7 +91,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
     * Modelos de regresión (MSE, RMSE, MAE, …)
   * Modelos lineales generalizados (GLM):
     * [Regresión Logística](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regresionlogistica.ipynb)
-    * [Prophet]()
+    * [Series Temporales y Prophet](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/prophet.ipynb)
     * [Regularización](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/regularizacion.ipynb)
   * [K-vecinos más cercanos (KNN)](https://colab.research.google.com/github/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_IV/knnvecino.ipynb)
   * Árboles de decisión:
